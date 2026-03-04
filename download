@@ -1,0 +1,3 @@
+# minimal
+__pycache__/
+.streamlit/secrets.toml
